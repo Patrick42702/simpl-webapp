@@ -1,5 +1,1 @@
-import Application
-
-data = Application.readCSV("weather.csv")
-
-print(Application.evap_avg())
+assert(5 ==5)
