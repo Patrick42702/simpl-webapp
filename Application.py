@@ -15,3 +15,6 @@ def readCSV(filename):
             fileContents.append(line)
         return fileContents
 
+def writeCSV():
+    print("hello")
+
