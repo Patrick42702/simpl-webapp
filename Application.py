@@ -53,3 +53,6 @@ def evap_avg():
         total_count += mintemp
         avg_count += 1
     return round((total_count / avg_count), 2)
+
+def hello():
+    print("hi")
